@@ -1,4 +1,4 @@
-# PneumoniaDetection
+# Pneumonia Detection
 
 Using Chest-X Ray images from a very well known Kaggle Dataset (https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia), we can use Deep Learning models to detect Pneumonia. 
 
